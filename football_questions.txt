@@ -1,0 +1,15 @@
+Which country won the 2018 FIFA World Cup?|France|Croatia|Belgium|England|0|1
+Which player has won the most Ballon d'Or awards?|Lionel Messi|Cristiano Ronaldo|Michel Platini|Johan Cruyff|0|1
+Which club has won the most Champions League titles?|Real Madrid|AC Milan|Bayern Munich|Liverpool|0|1
+In which year did Barcelona win their first Champions League?|1992|2006|2009|2011|0|2
+Who is the all-time top scorer for the Brazilian national team?|Pele|Ronaldo|Neymar|Romario|2|2
+Which country hosted the 2014 FIFA World Cup?|Brazil|Argentina|Germany|South Africa|0|2
+Who was the top scorer of the 2006 FIFA World Cup?|Miroslav Klose|Thierry Henry|Ronaldo|Hernan Crespo|0|3
+Which English club is known as 'The Red Devils'?|Manchester United|Liverpool|Arsenal|Chelsea|0|3
+Who scored the 'Hand of God' goal?|Diego Maradona|Lionel Messi|Pele|Zinedine Zidane|0|3
+Which player holds the record for most goals in a single Champions League season?|Cristiano Ronaldo|Lionel Messi|Robert Lewandowski|Ruud van Nistelrooy|0|4
+Which country won the first ever FIFA World Cup in 1930?|Uruguay|Argentina|Brazil|Italy|0|4
+Who is the only player to have won the World Cup, Champions League, Ballon d'Or and the Golden Boot?|Ronaldo|Zinedine Zidane|Lionel Messi|Cristiano Ronaldo|0|4
+Which player has made the most appearances in the Premier League?|Gareth Barry|Ryan Giggs|Frank Lampard|James Milner|0|5
+Who was the manager of Arsenal's 'Invincibles' team?|Arsene Wenger|Alex Ferguson|Jose Mourinho|Carlo Ancelotti|0|5
+Which player scored the fastest hat-trick in Premier League history?|Sadio Mane|Robbie Fowler|Sergio Aguero|Harry Kane|0|5
